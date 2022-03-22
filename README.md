@@ -8,3 +8,7 @@ Date (MM-DD-YYYY)| Presentation | Presenter | Presentation_link
 :---: | :---: | :--- | :---
 28-03-2022| *Masters' progress presentation* | Laura Ondari | [presentation link]()
 ---
+
+The Presentation schedule can be accessed from the following [link](https://docs.google.com/spreadsheets/d/1_xYYt2pVfw8A21Ati0jGCfqVCd8KBasr-M3TjmophVA/edit#gid=683311151)
+
+---
