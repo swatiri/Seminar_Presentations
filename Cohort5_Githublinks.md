@@ -9,7 +9,7 @@ Date (MM-DD-YYYY)|  Project_name | Owner | GitHub_Wiki_link
 
 Project Updates - GitHub Projects
 ---
-
+---
 Date (MM-DD-YYYY)| Owner | GitHub_Project_link 
 :---: | :---: | :--- | :--- 
 21-02-2022| Audrey | [GitHub link]()
