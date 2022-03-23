@@ -14,6 +14,7 @@ Report Updates - GitHub Wikis
 
 Owner | GitHub_Project_link 
 :---: | :---: 
+Kinyugo | [GitHub link](https://github.com/users/Kinyugo/projects/1)
 Audrey | [GitHub link](https://github.com/users/Oronda/projects/2)
 Maxwell| [Github link](https://github.com/alunga20/Bionformatics-Internship/projects/2)
 Sharon | [GitHub link](https://github.com/users/swatiri/projects/1)
