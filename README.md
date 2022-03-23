@@ -15,7 +15,7 @@ Date (MM-DD-YYYY)| Presentation | Presenter | Presentation_link
 11-03-2022| *Mini-project progress presentation*|Maxwell Booker|  [presentation link](https://docs.google.com/presentation/d/1IOqltLVJfvypc9iV_BhBJ4KnNpyeHINKAVA0do_grbE/edit?usp=sharing)
 21-03-2022| *Mini-project final presentation* | Kinyugo Maina and Oronda Audrey | [presentation link](https://docs.google.com/presentation/d/1heLs1AFc_V_jzheP2_O3o2yPWqM1jsVDfgjb1R5Tb6g/edit?usp=sharing)
 21-03-2022| *Mini-project final presantation*|Maxwell Booker | [presentation link](https://docs.google.com/presentation/d/1IOqltLVJfvypc9iV_BhBJ4KnNpyeHINKAVA0do_grbE/edit?usp=sharing)
-21-03-2022| *Final paper presentation* | Sharon Watiri | [Presentation link](https://docs.google.com/presentation/d/1FgnyN3tJp9Ei63xYbuGqDQhTbMWipPsW/edit#slide=id.p1)
+21-03-2022| *Final paper presentation* | Sharon Watiri and Rodney Omukuti | [Presentation link](https://docs.google.com/presentation/d/1FgnyN3tJp9Ei63xYbuGqDQhTbMWipPsW/edit#slide=id.p1)
 28-03-2022| *Masters' progress presentation* | Laura Ondari | [presentation link]()
 21-02-2022| *Masters' progress presentation* | Ken Mugambi | [presentation link](https://docs.google.com/presentation/d/1I97TP_5aiwZx5R-V2z7zT0IJu_hterug7QCmIL9iNSE/edit?usp=sharing)
 ---
