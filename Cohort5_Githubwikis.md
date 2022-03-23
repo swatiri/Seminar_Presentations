@@ -2,7 +2,7 @@
 Report Updates - GitHub Wikis
 ---
 
-Date (MM-DD-YYYY)|  Project_name | Owner | GitHub_Wiki_link 
+Start to end Date |  Project_name | Owner | GitHub_Wiki_link 
 :---: | :---: | :--- | :--- 
 21-02-2022| *Reproducing paper* | Audrey & Dennis | [GitHub link]()
 ---
@@ -10,7 +10,7 @@ Date (MM-DD-YYYY)|  Project_name | Owner | GitHub_Wiki_link
 Report Updates - GitHub Wikis
 ---
 
-Date (MM-DD-YYYY)| Owner | GitHub_Project_link 
-:---: | :---: | :--- 
-21-02-2022| Audrey & Dennis | [GitHub link]()
+Owner | GitHub_Project_link 
+:---: | :---: 
+Audrey | [GitHub link]()
 ---
