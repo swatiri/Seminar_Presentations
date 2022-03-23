@@ -9,7 +9,7 @@ Start to end Date |  Project_name | Owner | GitHub_Wiki_link
 7-03-2022 to 21-03-2022 | *Reproducing paper* | Sharon and Rodney | [Github link](https://github.com/Rodneyomukuti/16S-analysis-on-prokaryotic-diversity-in-vended-food-and-environmental-samples/wiki) 
 ---
 
-Report Updates - GitHub Wikis
+Report Updates - GitHub Projects
 ---
 
 Owner | GitHub_Project_link 
