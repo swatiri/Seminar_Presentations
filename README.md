@@ -18,7 +18,7 @@ Date (MM-DD-YYYY)| Presentation | Presenter | Presentation_link
 21-03-2022| *Final paper presentation* | Sharon Watiri | [Presentation link](https://docs.google.com/presentation/d/1FgnyN3tJp9Ei63xYbuGqDQhTbMWipPsW/edit#slide=id.p1)
 28-03-2022| *Masters' progress presentation* | Laura Ondari | [presentation link]()
 18-02-2022| *Trial presentation*             | Rodney Omukuti | [presentation link.](https://docs.google.com/presentation/d/1QGkFRK8zvpQDZhaTF06NRcMwTM0g8Pe5/edit?usp=sharing&ouid=102786403682468986387&rtpof=true&sd=true)
-21-03-2022| *16s mini-project presentation*  | Rodney Omukuti | [presentation link.](https://docs.google.com/presentation/d/1FgnyN3tJp9Ei63xYbuGqDQhTbMWipPsW/edit#slide=id.p1)
+
 
 ---
 
