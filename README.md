@@ -9,6 +9,7 @@ Date (MM-DD-YYYY)| Presentation | Presenter | Presentation_link
 :---: | :---: | :--- | :---
 **07-02-2022|*Masters' progress presentation* | Alex Kimani | [presentation link](https://outlook.office.com/mail/sentitems/id/AAQkAGUzNzdkY2VhLWI0N2YtNDRhZi1hY2U2LTc2NzBiYWFiNWFkYQAQANIRfz16C2NLqkf38mA0Sow%3D)
 21-02-2022| *Masters' progress presentation* | Ken Mugambi | [presentation link](https://docs.google.com/presentation/d/1I97TP_5aiwZx5R-V2z7zT0IJu_hterug7QCmIL9iNSE/edit?usp=sharing)
+28-03-2022| *JC presentation* | Rodney Omukuti| [presentation link](https://docs.google.com/presentation/d/1b_3dYfkTV3Wz_LMmklYsnZqtC_LjbRmP/edit?usp=sharing&ouid=102786403682468986387&rtpof=true&sd=true)
 ---
 
 The Presentation schedule can be accessed from the following [link](https://docs.google.com/spreadsheets/d/1_xYYt2pVfw8A21Ati0jGCfqVCd8KBasr-M3TjmophVA/edit#gid=683311151)
